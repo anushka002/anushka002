@@ -16,9 +16,6 @@
 # 👩‍💻 Hi, I am Anushka Satav !
 
 Greetings and welcome to my GitHub profile! I am _**Anushka Satav**_, a dedicated robotics enthusiast currently pursuing a Master's in Robotics and Autonomous Systems (Artificial Intelligence) at Arizona State University, Tempe, USA.
-Programming Languages: Python, C, C++
-Robotics & Automation: ROS2, Robot Software Development, Autonomous Navigation, Sensor Integration, Computer Vision
-Software & Tools: MATLAB, MSC Apex, Nastran, Dytran, CoppeliaSim, Gazebo, Simscape, Robotics Toolbox
 
 My academic and professional journey is driven by a passion for research, design, prototyping, and developing innovative robotic systems. I have a keen interest in the following areas:
 - **Artificial Intelligence**
