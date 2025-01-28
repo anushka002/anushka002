@@ -89,11 +89,12 @@ My academic and professional journey is driven by a passion for research, design
 
 
 
+
 ### Featured Projects 🤖 
 
 | **Robotic Arm for Waste Sorting (Final Year B.Tech)**                | **TurtleBot First-Order Boustrophedon Navigator**                             |
 |----------------------------------------------------------------------|-------------------------------------------------------------|
-| ![Robotic Arm](https://github.com/user-attachments/assets/e36acb5c-2446-4ded-a3bb-c6992f99afe3) | ![TurtleBot](https://github.com/user-attachments/assets/961c8f34-cf53-4c6f-b75d-e2d99c1cfce5)   |
+| ![robot arm 4dof](https://github.com/user-attachments/assets/aa40d386-3bbf-42d6-b29a-70a5fb14e499) | ![TurtleBot](https://github.com/user-attachments/assets/961c8f34-cf53-4c6f-b75d-e2d99c1cfce5)   |
 | - Built a 4-DOF robotic arm.                                         | - Turtlesim, to tune a navigator to implement a lawnmower survey (a boustrophedon pattern)      |
 | - Implemented YOLOv7 for waste segregation into glass, paper, metal, and plastic. | - Successfully tuned the parameters.           |
 | [View Repository](https://github.com/anushka002/robotic_arm_waste_sorting/blob/main/README.md) | [View Repository](https://github.com/anushka002/RAS-SES-598-Space-Robotics-and-AI/tree/main/assignments/first_order_boustrophedon_navigator) |
