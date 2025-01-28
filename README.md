@@ -84,14 +84,19 @@ My academic and professional journey is driven by a passion for research, design
 
 ---
 
+
+![result]
+
+
+
 ### Featured Projects 🤖 
 
-| **Robotic Arm for Waste Sorting (Final Year B.Tech)**                | **TurtleBot Navigation System**                             |
+| **Robotic Arm for Waste Sorting (Final Year B.Tech)**                | **TurtleBot First-Order Boustrophedon Navigator**                             |
 |----------------------------------------------------------------------|-------------------------------------------------------------|
-| ![Robotic Arm](https://via.placeholder.com/300)                      | ![TurtleBot](https://via.placeholder.com/300)               |
-| - Built a 4-DOF robotic arm.                                         | - Developed an autonomous navigation stack using ROS2.      |
-| - Implemented YOLOv7 for waste segregation into glass, paper, metal, and plastic. | - Successfully mapped complex indoor environments.           |
-| [View Repository](https://github.com/anushkasatav/waste-sorting-arm) | [View Repository](https://github.com/anushkasatav/turtlebot-navigation) |
+| ![Robotic Arm](https://github.com/user-attachments/assets/e36acb5c-2446-4ded-a3bb-c6992f99afe3) | ![TurtleBot](https://github.com/user-attachments/assets/961c8f34-cf53-4c6f-b75d-e2d99c1cfce5)   |
+| - Built a 4-DOF robotic arm.                                         | - Turtlesim, to tune a navigator to implement a lawnmower survey (a boustrophedon pattern)      |
+| - Implemented YOLOv7 for waste segregation into glass, paper, metal, and plastic. | - Successfully tuned the parameters.           |
+| [View Repository](https://github.com/anushkasatav/waste-sorting-arm) | [View Repository](https://github.com/anushka002/RAS-SES-598-Space-Robotics-and-AI/tree/main/assignments/first_order_boustrophedon_navigator) |
 
 | **Custom FEA Automation Tool**                                       | **Book Sorting Robot**                                      |
 |----------------------------------------------------------------------|------------------------------------------------------------|
