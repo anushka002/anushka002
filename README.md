@@ -89,21 +89,24 @@ My academic and professional journey is driven by a passion for research, design
 
 ### Featured Projects 🤖 
 
-| **Robotic Arm for Waste Sorting (Final Year B.Tech)**                | **TurtleBot First-Order Boustrophedon Navigator**                             |
+| **Robotic Arm for Waste Sorting (Final Year B.Tech)**                | **Solving a 4x4 Maze with MyCobot Pro 600 (M.S. RAS-545)**  |
 |----------------------------------------------------------------------|-------------------------------------------------------------|
-| ![robot arm 4dof](https://github.com/user-attachments/assets/aa40d386-3bbf-42d6-b29a-70a5fb14e499) | ![TurtleBot](https://github.com/user-attachments/assets/961c8f34-cf53-4c6f-b75d-e2d99c1cfce5)   |
-| - Built a 4-DOF robotic arm.                                         | - Turtlesim, to tune a navigator to implement a lawnmower survey (a boustrophedon pattern)      |
-| - Implemented YOLOv7 for waste segregation into glass, paper, metal, and plastic. | - Successfully tuned the parameters.           |
+| ![robot arm 4dof](https://github.com/user-attachments/assets/aa40d386-3bbf-42d6-b29a-70a5fb14e499) | ![cobot_maze](https://github.com/user-attachments/assets/a13265df-8d03-458d-9584-87480f8a8ca3)|
+| - Built a 4-DOF robotic arm.                                         | - Solving 4x4 rectangular mazes autonomously using AI Camera kit and digital twin on MATLAB |
+| - Implemented YOLOv7 for waste segregation into glass, paper, metal, and plastic. | - Successfully followed the solution path using the MyCobot Pro 600 robotic arm  |
 | [View Repository](https://github.com/anushka002/robotic_arm_waste_sorting/blob/main/README.md) | [View Repository](https://github.com/anushka002/RAS-SES-598-Space-Robotics-and-AI/tree/main/assignments/first_order_boustrophedon_navigator) |
 
-| **Custom FEA Automation Tool (Internship)**                           | **Book Sorting Robot**                                      |
+| **Custom FEA Automation Tool (Internship)**                           | **TurtleBot First-Order Boustrophedon Navigator**         |
 |----------------------------------------------------------------------|------------------------------------------------------------|
-| ![FEA Tool](https://via.placeholder.com/300)                         | ![Book Sorting Robot](https://via.placeholder.com/300)      |
-| - Automated model building for FEA analysis using Python.            | - Designed and programmed a robotic system for libraries.  |
-| - Reduced analysis setup time from 20 minutes to 2 minutes.          | - Integrated computer vision for genre-based sorting.      |
+| ![FEA Tool](https://via.placeholder.com/300)                         | ![TurtleBot](https://github.com/user-attachments/assets/961c8f34-cf53-4c6f-b75d-e2d99c1cfce5)   |
+| - Automated model building for FEA analysis using Python.            | - Turtlesim, to tune a navigator to implement a lawnmower survey (a boustrophedon pattern) |
+| - Reduced analysis setup time from 20 minutes to 2 minutes.          | - Successfully tuned the parameters.                       |
 | [View Repository](https://github.com/anushkasatav/fea-automation-tool)| [View Repository](https://github.com/anushkasatav/book-sorting-robot)|
 
 ---
+
+
+
 
 ### Other Projects 📚
 
