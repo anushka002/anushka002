@@ -21,6 +21,7 @@ My academic and professional journey is driven by a passion for research, design
 - **Artificial Intelligence**
 - **Autonomous Robots**
 - **Aerial Robots**
+- **Underwater Robots**
 - **Control Systems**
 - **ROS2-based software development**
 - **Computer Vision**
@@ -42,7 +43,7 @@ My academic and professional journey is driven by a passion for research, design
 **Master's in Robotics And Autonomous Systems (Artificial Intelligence)**    *(August 2024 - Present)*  
 - NAMU Scholarship & General Graduate Fellowship Holder (Fall-2024)
 - Semester-I: CSE-571 Artificial Intelligence, RAS-545 Robotic Systems, EGR-501 Linear Algebra
-- Semester-II: RAS-546 Robotic Systems II, RAS-598 Experimentation and Deployment of Robots, CSE-598 Advances in Robot Learning 
+- Semester-II: RAS-546 Robotic Systems II, RAS-598 Experimentation and Deployment of Robots, RAS-598 Space Robotics and AI
 
 #### **🖋️MIT World Peace University, Pune, India**
 **Bachelor of Technology in Robotics And Automation**    *(August 2019 - August 2023)*  
@@ -85,10 +86,6 @@ My academic and professional journey is driven by a passion for research, design
 ---
 
 
-![result]
-
-
-
 
 ### Featured Projects 🤖 
 
@@ -99,7 +96,7 @@ My academic and professional journey is driven by a passion for research, design
 | - Implemented YOLOv7 for waste segregation into glass, paper, metal, and plastic. | - Successfully tuned the parameters.           |
 | [View Repository](https://github.com/anushka002/robotic_arm_waste_sorting/blob/main/README.md) | [View Repository](https://github.com/anushka002/RAS-SES-598-Space-Robotics-and-AI/tree/main/assignments/first_order_boustrophedon_navigator) |
 
-| **Custom FEA Automation Tool**                                       | **Book Sorting Robot**                                      |
+| **Custom FEA Automation Tool (Internship)**                           | **Book Sorting Robot**                                      |
 |----------------------------------------------------------------------|------------------------------------------------------------|
 | ![FEA Tool](https://via.placeholder.com/300)                         | ![Book Sorting Robot](https://via.placeholder.com/300)      |
 | - Automated model building for FEA analysis using Python.            | - Designed and programmed a robotic system for libraries.  |
