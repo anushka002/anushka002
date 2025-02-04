@@ -110,6 +110,7 @@ My academic and professional journey is driven by a passion for research, design
 
 ### Other Projects 📚
 
+- [Digital Twins for Robot Manipulators MATLAB](https://github.com/anushka002/manipulator_digital_twins)
 - [Path Planning Algorithms for Mobile Robots](https://github.com/anushkasatav/path-planning)  
 - [Robotic Gripper Design and Control](https://github.com/anushkasatav/robotic-gripper)  
 - [AI-Powered Chatbot](https://github.com/anushkasatav/ai-chatbot)  
