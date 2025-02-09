@@ -96,12 +96,12 @@ My academic and professional journey is driven by a passion for research, design
 | - Implemented YOLOv7 for waste segregation into glass, paper, metal, and plastic. | - Successfully followed the solution path using the MyCobot Pro 600 robotic arm  |
 | [View Repository](https://github.com/anushka002/robotic_arm_waste_sorting/blob/main/README.md) | [View Repository](https://github.com/anushka002/RAS-SES-598-Space-Robotics-and-AI/tree/main/assignments/first_order_boustrophedon_navigator) |
 
-| **Custom FEA Automation Tool (Internship)**                           | **TurtleBot First-Order Boustrophedon Navigator**         |
+| **Parrot Mambo Mini-Drone Project Series**                            | **TurtleBot First-Order Boustrophedon Navigator**         |
 |----------------------------------------------------------------------|------------------------------------------------------------|
-| ![FEA Tool](https://via.placeholder.com/300)                         | ![TurtleBot](https://github.com/user-attachments/assets/961c8f34-cf53-4c6f-b75d-e2d99c1cfce5)   |
-| - Automated model building for FEA analysis using Python.            | - Turtlesim, to tune a navigator to implement a lawnmower survey (a boustrophedon pattern) |
-| - Reduced analysis setup time from 20 minutes to 2 minutes.          | - Successfully tuned the parameters.                       |
-| [View Repository](https://github.com/anushkasatav/fea-automation-tool)| [View Repository](https://github.com/anushkasatav/book-sorting-robot)|
+| ![minidrone](https://github.com/user-attachments/assets/7c484938-79d5-4f86-a522-7b18e9df4be2)| ![TurtleBot](https://github.com/user-attachments/assets/961c8f34-cf53-4c6f-b75d-e2d99c1cfce5)   |
+| - Drone model used: Parrot Mambo mini drone            | - Turtlesim, to tune a navigator to implement a lawnmower survey (a boustrophedon pattern) |
+| - Various projects related to image processing, Flight Control, and Path Planning           | - Successfully tuned the parameters.                       |
+| [View Repository](https://github.com/anushka002/parrot_mambo_series/blob/main/README.md)| [View Repository](https://github.com/anushkasatav/book-sorting-robot)|
 
 ---
 
