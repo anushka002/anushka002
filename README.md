@@ -111,6 +111,7 @@ My academic and professional journey is driven by a passion for research, design
 ### Other Projects 📚
 
 - [Digital Twins for Robot Manipulators MATLAB](https://github.com/anushka002/manipulator_digital_twins)
+- [Mini Project- Turtlesim Catch Them All](https://github.com/anushka002/ros2_rookie_ws)
 
 
 ---
