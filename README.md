@@ -98,7 +98,7 @@ My academic and professional journey is driven by a passion for research, design
 
 | **Parrot Mambo Mini-Drone Project Series**                            | **TurtleBot First-Order Boustrophedon Navigator**         |
 |----------------------------------------------------------------------|------------------------------------------------------------|
-| ![minidrone](https://github.com/user-attachments/assets/7c484938-79d5-4f86-a522-7b18e9df4be2)| ![TurtleBot](https://github.com/user-attachments/assets/961c8f34-cf53-4c6f-b75d-e2d99c1cfce5)   |
+|![gif for github](https://github.com/user-attachments/assets/525082b4-3a05-4bd5-a98a-b042ae9e842a) | ![TurtleBot](https://github.com/user-attachments/assets/961c8f34-cf53-4c6f-b75d-e2d99c1cfce5)   |
 | - Drone model used: Parrot Mambo mini drone            | - Turtlesim, to tune a navigator to implement a lawnmower survey (a boustrophedon pattern) |
 | - Various projects related to image processing, Flight Control, and Path Planning           | - Successfully tuned the parameters.                       |
 | [View Repository](https://github.com/anushka002/parrot_mambo_series/blob/main/README.md)| [View Repository](https://github.com/anushkasatav/book-sorting-robot)|
