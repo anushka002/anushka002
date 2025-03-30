@@ -89,6 +89,23 @@ My academic and professional journey is driven by a passion for research, design
 
 ### Featured Projects 🤖 
 
+
+| **Parrot Mambo Mini-Drone Project Series**                            | **ArUco-Guided Precision Arm Navigation with Fetch Robot**         |
+|----------------------------------------------------------------------|------------------------------------------------------------|
+|![gif for github](https://github.com/user-attachments/assets/525082b4-3a05-4bd5-a98a-b042ae9e842a) | ![TASK3](https://github.com/user-attachments/assets/9b083d03-22b2-4830-940a-b5c8247dda39)  |
+| - Drone model used: Parrot Mambo mini drone            | - Detected ArUco marker pose using Fetch robot’s head camera in Gazebo simulation |
+| - Various projects related to image processing, Flight Control, and Path Planning           | - Moved the Fetch arm to the marker’s pose using MoveIt! and `ar_track_alvar`  |
+| [View Repository](https://github.com/anushka002/parrot_mambo_series/blob/main/README.md)| [View Repository](https://github.com/anushka002/test_fetch_control/blob/main/README.md)|
+
+
+| **Learning Fetch Robot with ROS Melodic: A Chapter-by-Chapter Guide** | **Towards Robotic Trash Removal with Autonomous Surface Vessels** |
+|----------------------------------------------------------------------|------------------------------------------------------------|
+|![fetch test](https://github.com/user-attachments/assets/310996b0-fad7-472e-a560-11c178b9e83d) |![image](https://github.com/user-attachments/assets/f15e4087-59df-4dbd-8d58-7bf5a5b2d6a4)|
+| - Created a comprehensive guide with lessons on using the Fetch robot in ROS Melodic | - Developing an autonomous surface vessel for robotic trash removal in aquatic environments |
+| - Covers key concepts like navigation, manipulation, and perception for Fetch robot  | - Integrates PX4 for autonomous navigation and control of the robotic boat  |
+| [View Repository](https://github.com/anushka002/ROS-Melodic-Fetch-Robot)| [View Repository](https://github.com/anushka002/PX4-Robotic-Boat-Lake/tree/master/Project%20Report)|
+
+
 | **Robotic Arm for Waste Sorting (Final Year B.Tech)**                | **Solving a 4x4 Maze with MyCobot Pro 600 (M.S. RAS-545)**  |
 |----------------------------------------------------------------------|-------------------------------------------------------------|
 | ![robot arm 4dof](https://github.com/user-attachments/assets/aa40d386-3bbf-42d6-b29a-70a5fb14e499) | ![cobot_maze](https://github.com/user-attachments/assets/a13265df-8d03-458d-9584-87480f8a8ca3)|
@@ -96,12 +113,8 @@ My academic and professional journey is driven by a passion for research, design
 | - Implemented YOLOv7 for waste segregation into glass, paper, metal, and plastic. | - Successfully followed the solution path using the MyCobot Pro 600 robotic arm  |
 | [View Repository](https://github.com/anushka002/robotic_arm_waste_sorting/blob/main/README.md) | [View Repository](https://github.com/anushka002/RAS-SES-598-Space-Robotics-and-AI/tree/main/assignments/first_order_boustrophedon_navigator) |
 
-| **Parrot Mambo Mini-Drone Project Series**                            | **TurtleBot First-Order Boustrophedon Navigator**         |
-|----------------------------------------------------------------------|------------------------------------------------------------|
-|![gif for github](https://github.com/user-attachments/assets/525082b4-3a05-4bd5-a98a-b042ae9e842a) | ![TurtleBot](https://github.com/user-attachments/assets/961c8f34-cf53-4c6f-b75d-e2d99c1cfce5)   |
-| - Drone model used: Parrot Mambo mini drone            | - Turtlesim, to tune a navigator to implement a lawnmower survey (a boustrophedon pattern) |
-| - Various projects related to image processing, Flight Control, and Path Planning           | - Successfully tuned the parameters.                       |
-| [View Repository](https://github.com/anushka002/parrot_mambo_series/blob/main/README.md)| [View Repository](https://github.com/anushkasatav/book-sorting-robot)|
+
+
 
 ---
 
