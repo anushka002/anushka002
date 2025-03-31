@@ -111,7 +111,7 @@ My academic and professional journey is driven by a passion for research, design
 | ![robot arm 4dof](https://github.com/user-attachments/assets/aa40d386-3bbf-42d6-b29a-70a5fb14e499) | ![cobot_maze](https://github.com/user-attachments/assets/a13265df-8d03-458d-9584-87480f8a8ca3)|
 | - Built a 4-DOF robotic arm.                                         | - Solving 4x4 rectangular mazes autonomously using AI Camera kit and digital twin on MATLAB |
 | - Implemented YOLOv7 for waste segregation into glass, paper, metal, and plastic. | - Successfully followed the solution path using the MyCobot Pro 600 robotic arm  |
-| [View Repository](https://github.com/anushka002/robotic_arm_waste_sorting/blob/main/README.md) | [View Repository](https://github.com/anushka002/RAS-SES-598-Space-Robotics-and-AI/tree/main/assignments/first_order_boustrophedon_navigator) |
+| [View Repository](https://github.com/anushka002/robotic_arm_waste_sorting/blob/main/README.md) | [View Repository](https://github.com/anushka002/maze_solver_with_cobot_pro) |
 
 
 
