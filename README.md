@@ -102,6 +102,18 @@ My academic and professional journey is driven by a passion for research, design
 ---
 ## 🤖 PROJECT HIGHLIGHTS
 
+### Intelligent TurtleBot - Voice Guided Navigation and Object Detection 
+
+Our project, Intelligent Voice-Controlled Mobile Manipulator, transforms the TurtleBot4 mobile base and the MyCobot robotic arm into a unified, intelligent, multi-modal robotic system. 
+Built entirely on ROS 2, the system fuses real-time perception (YOLOv8 object detection), voice interaction (Whisper speech-to-text), LiDAR-based obstacle mapping, and IMU-driven stability monitoring into a modular architecture. 
+A custom PyQt5 GUI offers live visualization of all sensor inputs and inference feedback. 
+
+[![Watch on YouTube](https://img.youtube.com/vi/9VTNSJJPrb4/0.jpg)](https://youtu.be/9VTNSJJPrb4)  
+
+This 1-minute elevator pitch highlights our final project for the course RAS 598: Experimentation and Deployment of Robotic Systems at Arizona State University (Spring 2025).
+
+_Check more on my [Project Website](https://ras598-2025-s-team11.github.io/)._
+
 ### 🚤 Autonomous Robotic Boats Series
 
 Explore projects that target real-world aquatic challenges through robotics. These boats use intelligent onboard sensing and navigation for autonomous surface missions, including environmental cleanup.
