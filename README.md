@@ -118,6 +118,20 @@ _Check more on my [Project Website](https://ras598-2025-s-team11.github.io/)._
 
 Explore projects that target real-world aquatic challenges through robotics. These boats use intelligent onboard sensing and navigation for autonomous surface missions, including environmental cleanup.
 
+### 🌊 Heron USV Project – Autonomous Trash Collection & Scientific Survey  
+
+- This project showcases the **Heron Unmanned Surface Vessel (USV)** system, developed as part of **ICRA 2025 (Robots in the Wild)**.  
+- Combining **ROS2**, **Gazebo simulation**, and **real-time YOLOv8 vision**, this project demonstrates a modular framework for **opportunistic trash collection** during **scientific surveys**, prioritizing environmental data integrity.  
+- A lightweight color-based detection proxy was used in simulation (ROS-Melodic) to validate perception-driven navigation logic, while **real-world field tests on the R/V Karin Valentine** confirmed YOLOv8’s ability to detect trash under natural lighting and water conditions.
+
+| **Repository** | **Overview** |
+|----------------|--------------|
+| <br> **Heron USV Project** <br> [View Repository](https://github.com/anushka002/UUV-ICRA2025-Heron) <br> ![heron final gif](https://github.com/user-attachments/assets/4c426402-e8b2-4624-9c48-aea97ab758ec) | <br> - Developed for **IEEE ICRA 2025 – Robots in the Wild Workshop** <br> - Integrated **ROS-Gazebo simulation** with a **Heron USV digital twin** <br> - Validated **detour logic and waypoint recovery** using color proxy detection <br> - **Real-world detection tests** on R/V Karin Valentine confirmed trash detection under natural conditions, pending full control stack integration |
+| <br> **ICRA Presentation** <br> [Poster and Presentation](https://github.com/user-attachments/files/20459101/Towards.Robotic.Trash.Removal.with.Autonomous.Surface.Vessels.pptx) <br> ![Poster](https://github.com/user-attachments/assets/4a791fd8-e942-4061-8daf-dd4f06f4a851) | <br> 🌟 **Highlight from IEEE International Conference on Robotics and Automation (ICRA) 2025** <br> Our paper “Towards Robotic Trash Removal with Autonomous Surface Vessels” was accepted and presented at the **Robots in the Wild Workshop**, ICRA 2025, at the **Georgia World Congress Center, Atlanta, Georgia**. <br> - ICRA is the flagship conference of the IEEE Robotics and Automation Society, showcasing the latest advancements in robotics and automation. <br> - The project introduces a scalable, real-time detection and navigation framework, prioritizing scientific data integrity while enabling dynamic trash interception. <br> - Achieved **100% waypoint recovery**, **108.2% area coverage**, and **54% simulated trash collection rate** using color-based proxies. |
+| <br> **Field Testing of Detection Module** <br> _Image_ <br> ![Field Test](https://github.com/user-attachments/assets/e06ec016-776a-49f1-873a-839387cafbdc) | <br> - Preliminary field tests with live onboard RGB camera confirmed the **YOLOv8n model’s detection reliability** under real-world lighting and water reflection conditions. <br> - Control stack and full integration of perception, planning, and hardware-level autonomy (ROS2 + PX4) are planned for **future work**. <br> - Future deployments will include environmental sensors and adaptive navigation in challenging aquatic conditions. |
+
+✨ _This project embodies a balanced approach to robotics, prioritizing both environmental monitoring and responsible automation._  
+
 | **Project** | **Overview** |
 |------------|--------------|
 | [Towards Robotic Trash Removal with Autonomous Surface Vessels](https://github.com/anushka002/PX4-Robotic-Boat-Lake/tree/master/Project%20Report) | ![image](https://github.com/user-attachments/assets/f15e4087-59df-4dbd-8d58-7bf5a5b2d6a4) <br> **PX4-Based Robotic Boat for Lake Cleanup** <br><br> - Built an autonomous boat platform using PX4 for real-time control <br> - Integrated object detection with mission-level autonomy <br> - Designed to detect and collect floating trash using vision + path planning |
